@@ -30,10 +30,10 @@ Fill in the input fields with your personal information.
 Select a color using the color picker.
 Click the "Change Color" button to apply the selected color as the background color of the form.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
