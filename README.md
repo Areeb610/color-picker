@@ -14,25 +14,6 @@ This is a simple form application built using React. The application allows user
 - JavaScript
 - CSS
 
-## Installation
-
-1. Clone the repository:
-
-    git clone 
-  
-2. Navigate to the project directory:
-
-    cd color-picker
-  
-3. Install the dependencies:
-
-    npm install
-  
-4.Start the application:
-
-    npm start
-  
-5. Open your browser to view the color-picker application.
    
 ## Usage
 Fill in the input fields with your personal information.
